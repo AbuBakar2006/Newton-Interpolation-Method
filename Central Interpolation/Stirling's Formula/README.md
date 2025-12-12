@@ -2,6 +2,8 @@
 
 This script implements **Stirling's Formula**, a central difference method used when the desired $x$ is near the middle of the dataset.
 
+#### [⬅️ Back to Main Repository](../README.md)
+
 ### 🧠 How the Code Works
 
 1. **Find Origin ($x_0$):** The script automatically scans the `x` array to find the value closest to your input `c`. This index becomes the `mid`.
