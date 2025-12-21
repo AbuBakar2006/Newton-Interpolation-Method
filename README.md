@@ -58,3 +58,7 @@ This implementation finds the origin ($x_0$) closest to your input, then calcula
 
 ---
 
+#### Gauss Formula (Central)
+A set of central difference formulas designed for high precision when the target value lies near the center of the dataset.
+* **Gauss Forward:** Used when $x$ is slightly to the right of the central value ($0 < p < 1$).
+* **Gauss Backward:** Used when $x$ is slightly to the left of the central value ($-1 < p < 0$).
