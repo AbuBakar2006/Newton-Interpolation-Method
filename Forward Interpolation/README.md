@@ -28,18 +28,6 @@ The script is currently hardcoded with the following data points:
 | 0.3 | 0.00660095 |
 | 0.4 | 0.24842440 |
 
-### 💻 How to Run
-
-#### 1. Make sure you have **NumPy** installed:
-```bash
-   pip install numpy
-```
-#### 2. Run the script:
-```text
-Newton-Forward-Difference-Method.py
-```
-#### 3.Enter a value for $x$ when prompted.
-
 #### Example Output
 ```text
 D=
