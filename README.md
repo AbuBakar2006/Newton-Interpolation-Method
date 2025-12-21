@@ -13,8 +13,8 @@ The project is divided into three specific interpolation techniques:
 └── 📁 Central Interpolation/   # Logic for Central Difference (Gauss/Stirling)
     ├── 📁 Stirling Formula/
     └── 📁 Gauss Formula/
-        ├── 📁 Gauss Forward/
-        └── 📁 Gauss Backward/
+        ├── 📁 Gauss Forward Method/
+        └── 📁 Gauss Backward Method/
 
 ```
 
